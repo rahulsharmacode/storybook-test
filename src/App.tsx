@@ -1,9 +1,11 @@
 import React from 'react'
-import { Button } from './components/ui/button'
+import {Button} from "story02/dist/my-ui-library.es.js"
 
 const App = () => {
-  return (
-    <Button>Click me</Button>
+  return (<>
+  test
+  <Button >dwada</Button>
+  </>
   )
 }
 
