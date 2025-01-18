@@ -1,8 +1,12 @@
 {
-  "name": "designsys",
+  "name": "@rahul/designsys",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "author": {"email": "sharma56629@gmail.com","name": "Rahul Sharma","url": "https://rahulsharma.com.np"},
+  "homepage": "https://github.com/rahulsharmavrit/storybook-test",
+  "contributors": ["Rahul Sharma"],
+  "github" : "https://github.com/rahulsharmavrit/storybook-test",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
